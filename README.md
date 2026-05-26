@@ -1,10 +1,5 @@
 
 
-
-
-
-
-### Option B — Via GitHub (Recommended)
 1. Push this folder to a **GitHub repository**
 2. Go to [vercel.com](https://vercel.com) → **New Project**
 3. Import your GitHub repo

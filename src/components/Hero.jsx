@@ -103,7 +103,7 @@ export default function Hero() {
               </button>
                           <div className="flex gap-4">
   <a
-    href="/resume.pdf"
+    href="https://drive.google.com/file/d/1PnD_W8_zjluPn7XNsKVeJXnMa0FXcmqW/view?usp=sharing"
     target="_blank"
     rel="noopener noreferrer"
   className="clip-corner border border-acid/50 text-acid font-display font-bold px-8 py-3 hover:bg-acid/10 transition-colors duration-200 flex items-center gap-2"
@@ -145,7 +145,7 @@ export default function Hero() {
           </div>
 
           {/* Right: Avatar card */}
-          <div className="hidden lg:flex justify-center items-center relative">
+      <div className="flex justify-center items-center relative mt-10 lg:mt-0">
             <div className="relative animate-float">
               {/* Rotating ring */}
               <div className="absolute inset-0 rounded-full border border-dashed border-acid/20 animate-spin-slow scale-110"></div>

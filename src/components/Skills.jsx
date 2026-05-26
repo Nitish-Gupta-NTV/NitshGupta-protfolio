@@ -5,7 +5,7 @@ const categories = [
     label: 'Frontend',
     color: '#00ff88',
     skills: [
-      { name: 'React.js', level: 92 },
+      { name: 'React.js', level: 72 },
       { name: 'Next.js', level: 85 },
       { name: 'TypeScript', level: 80 },
       { name: 'Tailwind CSS', level: 95 },
@@ -16,7 +16,7 @@ const categories = [
     label: 'Backend',
     color: '#c8ff00',
     skills: [
-      { name: 'Node.js / Express', level: 90 },
+      { name: 'Node.js / Express', level: 60 },
       //{ name: 'Python / FastAPI', level: 88 },
       { name: 'REST APIs', level: 85 },
       { name: 'PostgreSQL', level: 80 },
@@ -30,7 +30,7 @@ const categories = [
     skills: [
      // { name: 'PyTorch / TensorFlow', level: 82 },
      // { name: 'LangChain / LlamaIndex', level: 85 },
-      { name: 'Numpy/pandas', level: 85 },
+      { name: 'Numpy/pandas', level: 65 },
        { name: 'mathplotlib/seabrn', level: 85 },
       { name: 'OpenAI / Gemini APIs', level: 90 },
       { name: 'Scikit-learn', level: 78 },
